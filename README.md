@@ -1,4 +1,5 @@
 # 📚LocalFFiction
+![Example](https://github.com/FenixScar/LocalFFiction/blob/main/localffictionexample.png)
 ## English
 This program is designed for convenient navigation of your local copy of Fimfarchive with an intuitive web interface, remotely similar to the original site. It will be very useful if you will not have access to the Internet in the near future or if you are simply paranoid and prefer a local archive to the Internet. The program consists of several Python scripts and several .bat files that run them. The program was 99% written by the DeepSeek AI in 3 days, so I myself hardly understand most of what it consists of. For this reason, there may be bugs and flaws in the program. If you know what you're doing, you can fix or change anything you want. The program is 120% OpenSource.
 
